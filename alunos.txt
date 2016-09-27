@@ -1,0 +1,4 @@
+nechelley;Mago;Força;2;2;fisico;soco;magico;vudu
+paulo;Clerigo;Destreza;2;2;fisico;soco;meteoro;arrebatamento
+diego;Guerreiro;Constituição;2;2;fisico;soco;fisico;espada
+marco;Guerreiro;Carisma;2;2;fisico;soco;fisico;flecha
